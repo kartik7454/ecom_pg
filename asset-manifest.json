@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/webdevproject/static/css/main.1fab12ad.css",
-    "main.js": "/webdevproject/static/js/main.1f77be1c.js",
-    "index.html": "/webdevproject/index.html",
-    "main.1fab12ad.css.map": "/webdevproject/static/css/main.1fab12ad.css.map",
-    "main.1f77be1c.js.map": "/webdevproject/static/js/main.1f77be1c.js.map"
+    "main.css": "/ecom_pg/static/css/main.1fab12ad.css",
+    "main.js": "/ecom_pg/static/js/main.1f77be1c.js",
+    "index.html": "/ecom_pg/index.html",
+    "main.1fab12ad.css.map": "/ecom_pg/static/css/main.1fab12ad.css.map",
+    "main.1f77be1c.js.map": "/ecom_pg/static/js/main.1f77be1c.js.map"
   },
   "entrypoints": [
     "static/css/main.1fab12ad.css",
