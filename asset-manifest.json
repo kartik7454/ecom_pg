@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/ecommerceweb/static/css/main.1fab12ad.css",
-    "main.js": "/ecommerceweb/static/js/main.1f77be1c.js",
-    "index.html": "/ecommerceweb/index.html",
-    "main.1fab12ad.css.map": "/ecommerceweb/static/css/main.1fab12ad.css.map",
-    "main.1f77be1c.js.map": "/ecommerceweb/static/js/main.1f77be1c.js.map"
+    "main.css": "/webdevproject/static/css/main.1fab12ad.css",
+    "main.js": "/webdevproject/static/js/main.1f77be1c.js",
+    "index.html": "/webdevproject/index.html",
+    "main.1fab12ad.css.map": "/webdevproject/static/css/main.1fab12ad.css.map",
+    "main.1f77be1c.js.map": "/webdevproject/static/js/main.1f77be1c.js.map"
   },
   "entrypoints": [
     "static/css/main.1fab12ad.css",
